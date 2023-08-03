@@ -1,4 +1,4 @@
-# M@TE model
+# M@TE: model template repository
 
 ## Q&A
 
