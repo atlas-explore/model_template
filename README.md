@@ -1,4 +1,4 @@
-# M@TE mode
+# M@TE model
 
 ## Q&A
 
