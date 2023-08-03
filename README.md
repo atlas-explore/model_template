@@ -5,7 +5,7 @@ Do you have and earth model/simulation to submit? Here
 ## Quick start
 
 1. Fork and Rename
-   * See the naming convection in RESOURCES.md
+   * See the __naming convention__ in RESOURCES.md
 3. Fill in the `README.md` in the `model_description` 
 4. Are you submitting data?
    * If yes, fill in the `README.md` in the `data_description`
