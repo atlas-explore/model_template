@@ -10,9 +10,12 @@
 
 **Topic category**
 
-***Model  Type***
+***Model  Type Tags***
 
-* E.g. published study, benchmark, reproduction of published model, 
+* published study
+* benchmark
+* reproduction of published model
+* zombie model (needs data regenerated)
 
 ### NCI details
 
