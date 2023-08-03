@@ -17,11 +17,7 @@
 * reproduction of published model
 * zombie model (needs data regenerated)
 
-### NCI details
 
-**Local NCI file path**
-
-**DOI (NCI Internal Field)**
 
 # Data Creation & Origins
 
