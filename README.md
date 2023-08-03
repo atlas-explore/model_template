@@ -4,6 +4,7 @@ Do you have and earth model/simulation to submit? Here
 
 ## Quick start
 
+0. Why do we ask you to go through this process? Much of this process is about assembling metadata to make align you model with FAIR principles. See Metadata Section in Resources.md
 1. Fork and Rename
    * See the __naming convention__ in RESOURCES.md
 3. Fill in the `README.md` in the `model_description` 
