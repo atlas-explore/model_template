@@ -23,4 +23,8 @@
 
 *Software framework*
 
+### NCI details
 
+**Local NCI file path**
+
+**DOI (NCI Internal Field)**
