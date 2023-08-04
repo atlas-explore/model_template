@@ -16,6 +16,13 @@ Why this submission process?
 * M@TE model data will be stored on a dedicted collection provided through NCIs GeoNetWork catalog.
 
 
+## Is M@TE the right place for yout model?
+
+![alt text]([http://url/to/img.png](https://github.com/atlas-explore/docs/blob/main/submission_dt.png))
+
+
+
+
 ## Model submission - quick start
 
 Do you have an earth model/simulation to submit? 
