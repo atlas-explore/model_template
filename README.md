@@ -19,7 +19,7 @@ Why this submission process?
 ## Is M@TE the right place for yout model?
 
 
-![alt text](https://github.com/atlas-explore/docs/blob/main/images/submission_dt.png)
+![alt text](https://github.com/atlas-explore/docs/blob/main/submission_dt.png =250x250)
 
 
 ## Model submission - quick start
