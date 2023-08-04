@@ -19,7 +19,8 @@ Why this submission process?
 ## Is M@TE the right place for your model?
 
 
-<img src="[url](https://github.com/atlas-explore/docs/blob/main/submission_dt.png)" alt="" width="100" height="100">
+<img src="https://github.com/atlas-explore/docs/blob/main/submission_dt.png" alt="" width="500" height="400">
+
 
 
 ## Model submission - quick start
