@@ -1,5 +1,3 @@
-
-
 How this works?
 -----
 
